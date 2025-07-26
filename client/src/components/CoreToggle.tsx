@@ -1,0 +1,1 @@
+const CoreToggle = () => <div>[Core Toggle Component]</div>; export default CoreToggle;

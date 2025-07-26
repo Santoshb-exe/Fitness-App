@@ -1,0 +1,1 @@
+const WorkoutProgram = () => <div>[Workout Table HTML]</div>; export default WorkoutProgram;

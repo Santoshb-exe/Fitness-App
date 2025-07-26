@@ -1,0 +1,1 @@
+const Heatmap = () => <div>[D3 Heatmap Placeholder]</div>; export default Heatmap;
